@@ -1,0 +1,109 @@
+body{
+    background-color:rgb(5, 25, 68);
+}
+
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 150%;
+    padding: 20px 20px;
+    text-decoration: none;
+  }
+
+  li{
+    border-right: 1px solid #bbb;
+}
+  li{
+      text-align: center;
+  }
+
+  h1{
+      text-align: center;
+      font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+      margin-bottom:1px;
+  }
+
+  h4{
+      text-align:end;
+      
+  }
+
+  footer {
+    position:static;
+    margin-top: 219px;
+    height: 15px;
+    padding:1px 0px;
+    clear: both;
+    background: whitesmoke;
+    text-align: center;
+    color: black;
+}
+
+p{
+  color: aliceblue;
+}
+
+h1.ti{
+        color: antiquewhite;
+        font-size: 300%;
+}
+
+a.boton{
+  color:aliceblue;
+}
+
+li.pp4{
+   text-align: center;
+}
+
+div.par{
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2.toi{
+  color: antiquewhite;
+  text-align: center;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing:  50px;
+}
+
+p.p1{
+      font-size: 150%;
+
+}
+
+h2.depo{
+   
+   color: whitesmoke;
+   align-content: center;
+
+}
+
+p.p2{
+  font-size: 150%;
+}
+p.p3{
+  font-size: 110%;
+}
+table, th, td {
+  border: 2px solid white;
+  border-collapse: collapse;
+  color: blanchedalmond;
+}
+th, td {
+  padding: 15px;
+}
+th {
+  text-align: center;
+  text-decoration-color: white;
+}
